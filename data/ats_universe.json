@@ -1,0 +1,1370 @@
+[
+ {
+  "company": "Monzo",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "monzo"
+ },
+ {
+  "company": "Starling Bank",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "starling-bank"
+ },
+ {
+  "company": "Wise",
+  "sector": "fintech",
+  "ats": "smartrecruiters",
+  "slug": "wise"
+ },
+ {
+  "company": "GoCardless",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "gocardless"
+ },
+ {
+  "company": "Thought Machine",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "thought-machine"
+ },
+ {
+  "company": "10x Banking",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "10xbanking"
+ },
+ {
+  "company": "ClearBank",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "clearbank"
+ },
+ {
+  "company": "Zopa",
+  "sector": "fintech",
+  "ats": "lever",
+  "slug": "zopa"
+ },
+ {
+  "company": "Marshmallow",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "marshmallow"
+ },
+ {
+  "company": "Zilch",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "zilch"
+ },
+ {
+  "company": "Freetrade",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "freetrade"
+ },
+ {
+  "company": "Tide",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "tide"
+ },
+ {
+  "company": "Pleo",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "pleo"
+ },
+ {
+  "company": "Ebury",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "ebury"
+ },
+ {
+  "company": "Airwallex",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "airwallex"
+ },
+ {
+  "company": "PPRO",
+  "sector": "fintech",
+  "ats": "lever",
+  "slug": "ppro"
+ },
+ {
+  "company": "Paddle",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "paddle"
+ },
+ {
+  "company": "Primer",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "primer"
+ },
+ {
+  "company": "TrueLayer",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "truelayer"
+ },
+ {
+  "company": "Yapily",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "yapily"
+ },
+ {
+  "company": "Codat",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "codat"
+ },
+ {
+  "company": "Griffin",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "griffin"
+ },
+ {
+  "company": "Lendable",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "lendable"
+ },
+ {
+  "company": "Funding Circle",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "fundingcircle"
+ },
+ {
+  "company": "Capital on Tap",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "capitalontap"
+ },
+ {
+  "company": "Modern Treasury",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "moderntreasury"
+ },
+ {
+  "company": "Unit",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "unit"
+ },
+ {
+  "company": "Column",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "column"
+ },
+ {
+  "company": "Stripe",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "stripe"
+ },
+ {
+  "company": "Adyen",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "adyen"
+ },
+ {
+  "company": "Mollie",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "mollie"
+ },
+ {
+  "company": "SumUp",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "sumup"
+ },
+ {
+  "company": "Dojo",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "dojo"
+ },
+ {
+  "company": "Teya",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "teya"
+ },
+ {
+  "company": "Nuvei",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "nuvei"
+ },
+ {
+  "company": "Marqeta",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "marqeta"
+ },
+ {
+  "company": "Highnote",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "highnote"
+ },
+ {
+  "company": "Lithic",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "lithic"
+ },
+ {
+  "company": "Swan",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "swan"
+ },
+ {
+  "company": "ComplyAdvantage",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "complyadvantage"
+ },
+ {
+  "company": "Veriff",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "veriff"
+ },
+ {
+  "company": "Persona",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "persona"
+ },
+ {
+  "company": "Alloy",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "alloy"
+ },
+ {
+  "company": "Sardine",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "sardine"
+ },
+ {
+  "company": "Fingerprint",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "fingerprint"
+ },
+ {
+  "company": "Quantexa",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "quantexa"
+ },
+ {
+  "company": "Ripjar",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "ripjar"
+ },
+ {
+  "company": "Feedzai",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "feedzai"
+ },
+ {
+  "company": "Elliptic",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "elliptic"
+ },
+ {
+  "company": "TRM Labs",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "trm-labs"
+ },
+ {
+  "company": "Fireblocks",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "fireblocks"
+ },
+ {
+  "company": "Coinbase",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "coinbase"
+ },
+ {
+  "company": "Bitpanda",
+  "sector": "fintech",
+  "ats": "greenhouse",
+  "slug": "bitpanda"
+ },
+ {
+  "company": "Nium",
+  "sector": "fintech",
+  "ats": "lever",
+  "slug": "nium"
+ },
+ {
+  "company": "Sequence",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "sequence"
+ },
+ {
+  "company": "Numeral",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "numeral"
+ },
+ {
+  "company": "Cledara",
+  "sector": "fintech",
+  "ats": "workable",
+  "slug": "cledara"
+ },
+ {
+  "company": "Vertice",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "vertice"
+ },
+ {
+  "company": "Duna",
+  "sector": "fintech",
+  "ats": "ashby",
+  "slug": "duna"
+ },
+ {
+  "company": "Smart Pension",
+  "sector": "fintech",
+  "ats": "smartrecruiters",
+  "slug": "smart"
+ },
+ {
+  "company": "Grafana Labs",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "grafanalabs"
+ },
+ {
+  "company": "Docker",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "docker"
+ },
+ {
+  "company": "CircleCI",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "circleci"
+ },
+ {
+  "company": "JFrog",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "jfrog"
+ },
+ {
+  "company": "Sysdig",
+  "sector": "cloudinfra",
+  "ats": "lever",
+  "slug": "sysdig"
+ },
+ {
+  "company": "Datadog",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "datadog"
+ },
+ {
+  "company": "Elastic",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "elastic"
+ },
+ {
+  "company": "Honeycomb",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "honeycomb"
+ },
+ {
+  "company": "Cribl",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "cribl"
+ },
+ {
+  "company": "Confluent",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "confluent"
+ },
+ {
+  "company": "Databricks",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "databricks"
+ },
+ {
+  "company": "Snowflake",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "snowflake"
+ },
+ {
+  "company": "ClickHouse",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "clickhouse"
+ },
+ {
+  "company": "Cockroach Labs",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "cockroachlabs"
+ },
+ {
+  "company": "Neon",
+  "sector": "cloudinfra",
+  "ats": "lever",
+  "slug": "neon"
+ },
+ {
+  "company": "PlanetScale",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "planetscale"
+ },
+ {
+  "company": "SingleStore",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "singlestore"
+ },
+ {
+  "company": "Yugabyte",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "yugabyte"
+ },
+ {
+  "company": "Redis",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "redis"
+ },
+ {
+  "company": "MongoDB",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "mongodb"
+ },
+ {
+  "company": "Scaleway",
+  "sector": "cloudinfra",
+  "ats": "lever",
+  "slug": "scaleway"
+ },
+ {
+  "company": "Render",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "render"
+ },
+ {
+  "company": "Vercel",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "vercel"
+ },
+ {
+  "company": "Netlify",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "netlify"
+ },
+ {
+  "company": "Cloudflare",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "cloudflare"
+ },
+ {
+  "company": "Fastly",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "fastly"
+ },
+ {
+  "company": "Canonical",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "canonical"
+ },
+ {
+  "company": "Mirantis",
+  "sector": "cloudinfra",
+  "ats": "smartrecruiters",
+  "slug": "mirantis"
+ },
+ {
+  "company": "Coder",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "coder"
+ },
+ {
+  "company": "GitLab",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "gitlab"
+ },
+ {
+  "company": "JetBrains",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "jetbrains"
+ },
+ {
+  "company": "LaunchDarkly",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "launchdarkly"
+ },
+ {
+  "company": "Temporal",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "temporal"
+ },
+ {
+  "company": "Camunda",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "camunda"
+ },
+ {
+  "company": "Workato",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "workato"
+ },
+ {
+  "company": "Celigo",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "celigo"
+ },
+ {
+  "company": "Prismatic",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "prismatic"
+ },
+ {
+  "company": "Merge",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "merge"
+ },
+ {
+  "company": "Nango",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "nango"
+ },
+ {
+  "company": "CloudZero",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "cloudzero"
+ },
+ {
+  "company": "Vantage",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "vantage"
+ },
+ {
+  "company": "Finout",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "finout"
+ },
+ {
+  "company": "Twilio",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "twilio"
+ },
+ {
+  "company": "Vonage",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "vonage"
+ },
+ {
+  "company": "Nylas",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "nylas"
+ },
+ {
+  "company": "Postman",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "postman"
+ },
+ {
+  "company": "Kong",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "kong"
+ },
+ {
+  "company": "Incident.io",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "incident"
+ },
+ {
+  "company": "PagerDuty",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "pagerduty"
+ },
+ {
+  "company": "InfluxData",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "influxdata"
+ },
+ {
+  "company": "StarTree",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "startree"
+ },
+ {
+  "company": "Imply",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "imply"
+ },
+ {
+  "company": "Materialize",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "materialize"
+ },
+ {
+  "company": "Airbyte",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "airbyte"
+ },
+ {
+  "company": "Fivetran",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "fivetran"
+ },
+ {
+  "company": "Hightouch",
+  "sector": "cloudinfra",
+  "ats": "greenhouse",
+  "slug": "hightouch"
+ },
+ {
+  "company": "Sifflet",
+  "sector": "cloudinfra",
+  "ats": "ashby",
+  "slug": "sifflet"
+ },
+ {
+  "company": "Zscaler",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "zscaler"
+ },
+ {
+  "company": "Netskope",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "netskope"
+ },
+ {
+  "company": "Cato Networks",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "catonetworks"
+ },
+ {
+  "company": "Orca Security",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "orcasecurity"
+ },
+ {
+  "company": "Veracode",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "veracode"
+ },
+ {
+  "company": "Semgrep",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "semgrep"
+ },
+ {
+  "company": "Socket",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "socket"
+ },
+ {
+  "company": "Chainguard",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "chainguard"
+ },
+ {
+  "company": "Tailscale",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "tailscale"
+ },
+ {
+  "company": "1Password",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "1password"
+ },
+ {
+  "company": "Bitwarden",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "bitwarden"
+ },
+ {
+  "company": "Keeper Security",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "keepersecurity"
+ },
+ {
+  "company": "BeyondTrust",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "beyondtrust"
+ },
+ {
+  "company": "Delinea",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "delinea"
+ },
+ {
+  "company": "Okta",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "okta"
+ },
+ {
+  "company": "JumpCloud",
+  "sector": "cybersecurity",
+  "ats": "lever",
+  "slug": "jumpcloud"
+ },
+ {
+  "company": "Material Security",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "materialsecurity"
+ },
+ {
+  "company": "Abnormal Security",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "abnormalsecurity"
+ },
+ {
+  "company": "Corelight",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "corelight"
+ },
+ {
+  "company": "Huntress",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "huntress"
+ },
+ {
+  "company": "Expel",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "expel"
+ },
+ {
+  "company": "Recorded Future",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "recordedfuture"
+ },
+ {
+  "company": "Censys",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "censys"
+ },
+ {
+  "company": "runZero",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "runzero"
+ },
+ {
+  "company": "SecurityScorecard",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "securityscorecard"
+ },
+ {
+  "company": "UpGuard",
+  "sector": "cybersecurity",
+  "ats": "lever",
+  "slug": "upguard"
+ },
+ {
+  "company": "Vanta",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "vanta"
+ },
+ {
+  "company": "Drata",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "drata"
+ },
+ {
+  "company": "Secureframe",
+  "sector": "cybersecurity",
+  "ats": "lever",
+  "slug": "secureframe"
+ },
+ {
+  "company": "Hyperproof",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "hyperproof"
+ },
+ {
+  "company": "LogicGate",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "logicgate"
+ },
+ {
+  "company": "Immersive Labs",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "immersivelabs"
+ },
+ {
+  "company": "Cymulate",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "cymulate"
+ },
+ {
+  "company": "SafeBreach",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "safebreach"
+ },
+ {
+  "company": "Bugcrowd",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "bugcrowd"
+ },
+ {
+  "company": "HackerOne",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "hackerone"
+ },
+ {
+  "company": "Endor Labs",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "endorlabs"
+ },
+ {
+  "company": "Apiiro",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "apiiro"
+ },
+ {
+  "company": "Oasis Security",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "oasissecurity"
+ },
+ {
+  "company": "Clutch Security",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "clutch"
+ },
+ {
+  "company": "Descope",
+  "sector": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "descope"
+ },
+ {
+  "company": "Stytch",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "stytch"
+ },
+ {
+  "company": "WorkOS",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "workos"
+ },
+ {
+  "company": "Oso",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "oso"
+ },
+ {
+  "company": "Opal",
+  "sector": "cybersecurity",
+  "ats": "ashby",
+  "slug": "opal"
+ },
+ {
+  "company": "Cognism",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "cognism"
+ },
+ {
+  "company": "Apollo.io",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "apolloio"
+ },
+ {
+  "company": "Outreach",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "outreach"
+ },
+ {
+  "company": "Salesloft",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "salesloft"
+ },
+ {
+  "company": "Gong",
+  "sector": "salestech_b2b",
+  "ats": "smartrecruiters",
+  "slug": "gong"
+ },
+ {
+  "company": "Highspot",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "highspot"
+ },
+ {
+  "company": "Showpad",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "showpad"
+ },
+ {
+  "company": "Mindtickle",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "mindtickle"
+ },
+ {
+  "company": "Nooks",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "nooks"
+ },
+ {
+  "company": "Regie.ai",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "regie"
+ },
+ {
+  "company": "Amplemarket",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "amplemarket"
+ },
+ {
+  "company": "Common Room",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "commonroom"
+ },
+ {
+  "company": "Unify",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "unify"
+ },
+ {
+  "company": "6sense",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "6sense"
+ },
+ {
+  "company": "Demandbase",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "demandbase"
+ },
+ {
+  "company": "ZoomInfo",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "zoominfo"
+ },
+ {
+  "company": "Bombora",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "bombora"
+ },
+ {
+  "company": "Attio",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "attio"
+ },
+ {
+  "company": "Pipedrive",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "pipedrive"
+ },
+ {
+  "company": "Close",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "close"
+ },
+ {
+  "company": "Freshworks",
+  "sector": "salestech_b2b",
+  "ats": "smartrecruiters",
+  "slug": "freshworks"
+ },
+ {
+  "company": "Intercom",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "intercom"
+ },
+ {
+  "company": "Sierra",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "sierra"
+ },
+ {
+  "company": "Decagon",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "decagon"
+ },
+ {
+  "company": "Parloa",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "parloa"
+ },
+ {
+  "company": "PolyAI",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "polyai"
+ },
+ {
+  "company": "Cresta",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "cresta"
+ },
+ {
+  "company": "Observe.AI",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "observeai"
+ },
+ {
+  "company": "Invoca",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "invoca"
+ },
+ {
+  "company": "Aircall",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "aircall"
+ },
+ {
+  "company": "Dialpad",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "dialpad"
+ },
+ {
+  "company": "Miro",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "miro"
+ },
+ {
+  "company": "Notion",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "notion"
+ },
+ {
+  "company": "Airtable",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "airtable"
+ },
+ {
+  "company": "Asana",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "asana"
+ },
+ {
+  "company": "Linear",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "linear"
+ },
+ {
+  "company": "Pendo",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "pendo"
+ },
+ {
+  "company": "Amplitude",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "amplitude"
+ },
+ {
+  "company": "Mixpanel",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "mixpanel"
+ },
+ {
+  "company": "FullStory",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "fullstory"
+ },
+ {
+  "company": "Contentsquare",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "contentsquare"
+ },
+ {
+  "company": "Dovetail",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "dovetail"
+ },
+ {
+  "company": "Typeform",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "typeform"
+ },
+ {
+  "company": "Qualtrics",
+  "sector": "salestech_b2b",
+  "ats": "greenhouse",
+  "slug": "qualtrics"
+ },
+ {
+  "company": "SurveyMonkey",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "surveymonkey"
+ },
+ {
+  "company": "Sprig",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "sprig"
+ },
+ {
+  "company": "Docebo",
+  "sector": "salestech_b2b",
+  "ats": "ashby",
+  "slug": "docebo"
+ },
+ {
+  "company": "360Learning",
+  "sector": "salestech_b2b",
+  "ats": "lever",
+  "slug": "360learning"
+ },
+ {
+  "company": "Kaluza",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "kaluza"
+ },
+ {
+  "company": "Axle Energy",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "axle"
+ },
+ {
+  "company": "Modo Energy",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "modoenergy"
+ },
+ {
+  "company": "Enode",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "enode"
+ },
+ {
+  "company": "Arcadia",
+  "sector": "energy_finance",
+  "ats": "lever",
+  "slug": "arcadia"
+ },
+ {
+  "company": "Amperon",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "amperon"
+ },
+ {
+  "company": "Watershed",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "watershed"
+ },
+ {
+  "company": "Sweep",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "sweep"
+ },
+ {
+  "company": "Sylvera",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "sylvera"
+ },
+ {
+  "company": "Patch",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "patch"
+ },
+ {
+  "company": "Altruistiq",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "altruistiq"
+ },
+ {
+  "company": "Isometric",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "isometric"
+ },
+ {
+  "company": "Kettle",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "kettle"
+ },
+ {
+  "company": "hyperexponential",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "hyperexponential"
+ },
+ {
+  "company": "Zego",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "zego"
+ },
+ {
+  "company": "Tractable",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "tractable"
+ },
+ {
+  "company": "Shift Technology",
+  "sector": "energy_finance",
+  "ats": "greenhouse",
+  "slug": "shifttechnology"
+ },
+ {
+  "company": "Sprout.ai",
+  "sector": "energy_finance",
+  "ats": "ashby",
+  "slug": "sprout-ai"
+ }
+]
