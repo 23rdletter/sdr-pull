@@ -1,0 +1,38 @@
+name: Daily SDR pull
+
+on:
+  schedule:
+    # 05:40 UTC daily. GitHub's scheduler is best-effort and often runs a few
+    # minutes late, so this is set early enough to land before a 07:00 brief.
+    - cron: "40 5 * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the refreshed data files
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run the pull
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python pull.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "sdr-bot"
+          git config user.email "sdr-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "pull: $(date -u +%Y-%m-%d)"
+          git push
