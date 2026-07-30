@@ -60,6 +60,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - UK Market",
   "company": "SumUp",
   "location": "Barcelona, Barcelona, Spain",
@@ -256,6 +266,16 @@
   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5012090008",
   "source": "ATS/greenhouse",
   "slug": "honeycomb",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, US",
+  "company": "Cribl",
+  "location": "Remote - United States",
+  "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
+  "source": "ATS/greenhouse",
+  "slug": "cribl",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -470,26 +490,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - German Speaking",
-  "company": "Kong",
-  "location": "London, England, United Kingdom",
-  "url": "https://jobs.ashbyhq.com/kong/cfa5e446-0711-456d-9f54-3fcf329fad62",
-  "source": "ATS/ashby",
-  "slug": "kong",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative (Dutch Speaking)",
-  "company": "Kong",
-  "location": "London, England, United Kingdom",
-  "url": "https://jobs.ashbyhq.com/kong/faf048d1-983c-4334-99e2-a55411f838c9",
-  "source": "ATS/ashby",
-  "slug": "kong",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "Fivetran",
   "location": "Dublin, Dublin, Ireland, EMEA",
@@ -556,16 +556,6 @@
   "url": "https://www.catonetworks.com/careers/careers-post/4853980101?gh_jid=4853980101",
   "source": "ATS/greenhouse",
   "slug": "catonetworks",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Veracode",
-  "location": "London, England",
-  "url": "https://www.veracode.com/career/job?gh_jid=8551024002",
-  "source": "ATS/greenhouse",
-  "slug": "veracode",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -670,16 +660,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "BeyondTrust",
-  "location": "Remote Australia",
-  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8088646",
-  "source": "ATS/greenhouse",
-  "slug": "beyondtrust",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative - UK&I",
   "company": "Okta",
   "location": "Dublin, Ireland",
@@ -712,8 +692,8 @@
  {
   "title": "Sales Development Representative, German Speaking",
   "company": "Abnormal Security",
-  "location": "Remote - Ireland",
-  "url": "https://abnormal.ai/careers/jobs/7788120003?gh_jid=7788120003",
+  "location": "Remote - UK",
+  "url": "https://abnormal.ai/careers/jobs/7731982003?gh_jid=7731982003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
   "sector": "cybersecurity",
@@ -722,8 +702,8 @@
  {
   "title": "Sales Development Representative",
   "company": "Huntress",
-  "location": "Remote US",
-  "url": "https://job-boards.greenhouse.io/huntress/jobs/6485841003",
+  "location": "Remote Australia",
+  "url": "https://job-boards.greenhouse.io/huntress/jobs/7797785003",
   "source": "ATS/greenhouse",
   "slug": "huntress",
   "sector": "cybersecurity",
