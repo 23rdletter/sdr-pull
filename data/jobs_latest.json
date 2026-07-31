@@ -412,8 +412,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -476,16 +476,6 @@
   "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689",
   "source": "ATS/greenhouse",
   "slug": "twilio",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Vonage",
-  "location": "Basingstoke, UK",
-  "url": "https://job-boards.greenhouse.io/vonage/jobs/8613175002",
-  "source": "ATS/greenhouse",
-  "slug": "vonage",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -600,6 +590,26 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative, SMB (German)",
+  "company": "1Password",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/1password/1bc2d854-56ec-4d4f-88ff-b6278196b1e7",
+  "source": "ATS/ashby",
+  "slug": "1password",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative (French and Spanish or Italian)",
+  "company": "1Password",
+  "location": "United Kingdom",
+  "url": "https://jobs.ashbyhq.com/1password/ade34b80-d901-4a20-91c8-779f903ec19a",
+  "source": "ATS/ashby",
+  "slug": "1password",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Inside Sales Representative MM, Bilingual (German) - DACH",
   "company": "Keeper Security",
   "location": "Remote, UK",
@@ -684,16 +694,6 @@
   "company": "Abnormal Security",
   "location": "Remote - USA",
   "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, German Speaking",
-  "company": "Abnormal Security",
-  "location": "Remote - UK",
-  "url": "https://abnormal.ai/careers/jobs/7731982003?gh_jid=7731982003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
   "sector": "cybersecurity",
