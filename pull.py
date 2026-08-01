@@ -34,7 +34,30 @@ UK_RE = re.compile(
     r"\b(uk|u\.k\.|united kingdom|england|scotland|wales|northern ireland|london|"
     r"manchester|liverpool|leeds|birmingham|bristol|edinburgh|glasgow|cardiff|"
     r"belfast|sheffield|newcastle|nottingham|reading|cambridge|oxford|brighton|"
-    r"emea|remote)\b", re.I)
+    r"basingstoke|emea|remote)\b", re.I)
+
+# Run 1 lesson: UK_RE alone lets "Remote - US" and "EMEA" through, because it
+# matches "remote"/"emea" anywhere in the string. Roughly half of the first run's
+# 105 rows were American, Australian, Israeli or Spanish. Anything matching this
+# is dropped even if it also matched UK_RE, UNLESS the string also names a real
+# UK place (so "Netherlands - Remote; United Kingdom" survives).
+NON_UK_RE = re.compile(
+    r"\b(united states|usa|u\.s\.|americas|latam|namer|canada|australia|sydney|"
+    r"melbourne|new zealand|japan|apac|singapore|india|israel|tel aviv|uae|mena|"
+    r"brazil|mexico|spain|barcelona|madrid|portugal|lisbon|germany|berlin|munich|"
+    r"france|paris|netherlands|amsterdam|ireland|dublin|poland|warsaw|"
+    r"est or cst|remote - us|remote us)\b", re.I)
+# "New South Wales" contains "wales". Without the lookbehind, Sydney reads as UK.
+UK_PLACE_RE = re.compile(
+    r"\b(uk|u\.k\.|united kingdom|england|scotland|(?<!new south )wales|northern ireland|gb|"
+    r"london|manchester|liverpool|leeds|birmingham|bristol|edinburgh|glasgow|"
+    r"cardiff|belfast|sheffield|newcastle|basingstoke)\b", re.I)
+
+# "SDR" also means software-defined radio. Run 1 returned a DSP/SDR Receiver
+# Engineer role at Swan. These are engineering jobs, not sales jobs.
+EXCLUDE_TITLE_RE = re.compile(
+    r"\b(receiver|rf|dsp|firmware|antenna|signal processing|embedded|"
+    r"radio frequency)\b", re.I)
 
 ATS = [
     ("greenhouse",      "https://boards-api.greenhouse.io/v1/boards/{s}/jobs"),
@@ -46,13 +69,22 @@ ATS = [
 ]
 
 
-def get(url):
-    try:
-        r = requests.get(url, timeout=TIMEOUT, headers=UA)
-        if r.status_code == 200:
-            return r.json()
-    except Exception:
-        pass
+def get(url, retries=1):
+    """One retry by default. Without it, a company whose board times out during the
+    concurrent probe is written off permanently, because the universe is cached and
+    never re-probed. Cloudflare's Greenhouse board (150 live jobs) was lost this way
+    on run 1: the URL is valid, the probe just flaked."""
+    for attempt in range(retries + 1):
+        try:
+            r = requests.get(url, timeout=TIMEOUT, headers=UA)
+            if r.status_code == 200:
+                return r.json()
+            if r.status_code in (404, 403, 410):
+                return None          # a real "not here", no point retrying
+        except Exception:
+            pass
+        if attempt < retries:
+            time.sleep(1.5)
     return None
 
 
@@ -60,7 +92,16 @@ def get(url):
 def normalise(ats, data, company, slug):
     out = []
     def add(title, loc, url):
-        if title and TITLE_RE.search(title) and UK_RE.search(f"{loc} {title}"):
+        if not title or not TITLE_RE.search(title):
+            return
+        if EXCLUDE_TITLE_RE.search(title):
+            return
+        blob = f"{loc} {title}"
+        if not UK_RE.search(blob):
+            return
+        if NON_UK_RE.search(blob) and not UK_PLACE_RE.search(loc or ""):
+            return
+        if True:
             out.append({"title": title.strip(), "company": company,
                         "location": (loc or "").strip(), "url": url,
                         "source": f"ATS/{ats}", "slug": slug})
@@ -92,8 +133,18 @@ def normalise(ats, data, company, slug):
     return out
 
 
+MANUAL_SLUGS = {
+    # Companies whose ATS slug does not resemble their name, or that were missed
+    # by the automatic probe. Verified by hand against the live endpoint.
+    "Cloudflare": ("greenhouse", "cloudflare"),
+}
+
+
 def resolve(item):
     name, sector = item
+    if name in MANUAL_SLUGS:
+        ats, slug = MANUAL_SLUGS[name]
+        return {"company": name, "sector": sector, "ats": ats, "slug": slug}
     for slug in slug_variants(name):
         for ats, tmpl in ATS:
             data = get(tmpl.format(s=slug))
@@ -107,18 +158,46 @@ def resolve(item):
 
 
 def build_universe():
+    """Cache resolved boards, but keep re-probing the misses a slice at a time so a
+    transient failure self-heals instead of being permanent."""
     path = os.path.join(DATA, "ats_universe.json")
-    if os.path.exists(path):
-        u = json.load(open(path))
-        print(f"universe loaded from cache: {len(u)} boards")
-        return u
+    miss_path = os.path.join(DATA, "misses.json")
     cands = company_list()
-    print(f"first run: probing {len(cands)} companies...")
-    with ThreadPoolExecutor(max_workers=32) as ex:
-        u = [r for r in ex.map(resolve, cands) if r]
-    json.dump(u, open(path, "w"), indent=1)
-    print(f"universe built: {len(u)}/{len(cands)} companies resolved")
-    return u
+    resolved = json.load(open(path)) if os.path.exists(path) else None
+
+    if resolved is None:
+        print(f"first run: probing {len(cands)} companies...")
+        with ThreadPoolExecutor(max_workers=24) as ex:
+            resolved = [r for r in ex.map(resolve, cands) if r]
+    else:
+        print(f"universe loaded from cache: {len(resolved)} boards")
+
+    have = {r["company"] for r in resolved}
+    misses = [c for c in cands if c[0] not in have]
+
+    # Re-probe up to 60 misses per run, rotating through them, so the whole miss
+    # list gets retried every few days without lengthening any single run much.
+    if misses:
+        cursor = 0
+        if os.path.exists(miss_path):
+            try:
+                cursor = json.load(open(miss_path)).get("cursor", 0)
+            except Exception:
+                cursor = 0
+        slice_ = misses[cursor:cursor + 60] or misses[:60]
+        print(f"re-probing {len(slice_)} of {len(misses)} unresolved companies...")
+        with ThreadPoolExecutor(max_workers=16) as ex:
+            recovered = [r for r in ex.map(resolve, slice_) if r]
+        if recovered:
+            print("  recovered: " + ", ".join(r["company"] for r in recovered))
+            resolved.extend(recovered)
+        json.dump({"cursor": (cursor + 60) % max(len(misses), 1),
+                   "unresolved": [c[0] for c in misses]},
+                  open(miss_path, "w"), indent=1)
+
+    json.dump(resolved, open(path, "w"), indent=1)
+    print(f"universe: {len(resolved)}/{len(cands)} companies resolved")
+    return resolved
 
 
 # ---------------------------------------------------------------- stage 2
@@ -177,7 +256,7 @@ def pull_adzuna():
                     # them BEFORE the regex test or the word boundaries never match
                     # and every Adzuna result is silently discarded.
                     title = re.sub(r"<[^>]+>", "", j.get("title", "")).strip()
-                    if not TITLE_RE.search(title):
+                    if not TITLE_RE.search(title) or EXCLUDE_TITLE_RE.search(title):
                         continue
                     lo, hi = j.get("salary_min"), j.get("salary_max")
                     rows.append({
