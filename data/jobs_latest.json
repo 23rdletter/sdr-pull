@@ -70,6 +70,16 @@
   "salary": ""
  },
  {
+  "title": "Outbound Sales Manager",
+  "company": "Funding Circle",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
+  "source": "ATS/ashby",
+  "slug": "fundingcircle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - UK Market",
   "company": "SumUp",
   "location": "Barcelona, Barcelona, Spain",
@@ -90,10 +100,30 @@
   "salary": ""
  },
  {
+  "title": "Inside Sales Executive",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/ffc6d1d9-810d-43d4-b9f2-c2df422c7423",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Inside Sales Enablemetn Specialist",
   "company": "Teya",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/teya/cf2292f7-2ca3-4754-9723-f2569547c0aa",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
   "sector": "fintech",
@@ -412,8 +442,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -670,12 +700,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - UK&I",
-  "company": "Okta",
-  "location": "Dublin, Ireland",
-  "url": "https://www.okta.com/company/careers/opportunity/8007704?gh_jid=8007704",
+  "title": "Sales Development Representative",
+  "company": "Abnormal Security",
+  "location": "Remote - USA",
+  "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
   "source": "ATS/greenhouse",
-  "slug": "okta",
+  "slug": "abnormalsecurity",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -690,42 +720,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - EST or CST",
-  "company": "Abnormal Security",
-  "location": "Remote - USA",
-  "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative",
   "company": "Huntress",
-  "location": "Remote Australia",
-  "url": "https://job-boards.greenhouse.io/huntress/jobs/7797785003",
+  "location": "Remote US",
+  "url": "https://job-boards.greenhouse.io/huntress/jobs/6485841003",
   "source": "ATS/greenhouse",
   "slug": "huntress",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Enterprise Sales Development Representative - East",
-  "company": "Expel",
-  "location": "Remote",
-  "url": "https://expel.com/about/career-listing/8647067002?gh_jid=8647067002",
-  "source": "ATS/greenhouse",
-  "slug": "expel",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative (SDR)",
-  "company": "UpGuard",
-  "location": "London",
-  "url": "https://jobs.lever.co/upguard/cf6bd3f7-b0ff-4621-a83b-8780f4bbed0c",
-  "source": "ATS/lever",
-  "slug": "upguard",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -796,6 +796,16 @@
   "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
   "source": "ATS/greenhouse",
   "slug": "zoominfo",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - London",
+  "company": "Decagon",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/decagon/1092b10a-f4d4-4150-b780-62b87f7661e1",
+  "source": "ATS/ashby",
+  "slug": "decagon",
   "sector": "salestech_b2b",
   "salary": ""
  },

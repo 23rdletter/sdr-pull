@@ -1,22 +1,52 @@
 [
  {
-  "title": "Business Development Representative, SMB (German)",
-  "company": "1Password",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/1password/1bc2d854-56ec-4d4f-88ff-b6278196b1e7",
+  "title": "Outbound Sales Manager",
+  "company": "Funding Circle",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
   "source": "ATS/ashby",
-  "slug": "1password",
+  "slug": "fundingcircle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Inside Sales Executive",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/ffc6d1d9-810d-43d4-b9f2-c2df422c7423",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Teya",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Abnormal Security",
+  "location": "Remote - USA",
+  "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
+  "source": "ATS/greenhouse",
+  "slug": "abnormalsecurity",
   "sector": "cybersecurity",
   "salary": ""
  },
  {
-  "title": "Business Development Representative (French and Spanish or Italian)",
-  "company": "1Password",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/1password/ade34b80-d901-4a20-91c8-779f903ec19a",
+  "title": "Sales Development Representative - London",
+  "company": "Decagon",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/decagon/1092b10a-f4d4-4150-b780-62b87f7661e1",
   "source": "ATS/ashby",
-  "slug": "1password",
-  "sector": "cybersecurity",
+  "slug": "decagon",
+  "sector": "salestech_b2b",
   "salary": ""
  }
 ]
