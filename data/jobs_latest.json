@@ -2,8 +2,8 @@
  {
   "title": "Sales Development Representative",
   "company": "GoCardless",
-  "location": "Leeds, UK",
-  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8071633",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8088493",
   "source": "ATS/greenhouse",
   "slug": "gocardless",
   "sector": "fintech",
@@ -16,16 +16,6 @@
   "url": "https://job-boards.greenhouse.io/tide/jobs/7775858003",
   "source": "ATS/greenhouse",
   "slug": "tide",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - UK & I",
-  "company": "Pleo",
-  "location": "Lisbon",
-  "url": "https://jobs.ashbyhq.com/pleo/53e879fd-10b0-42cf-9647-d623427c9b7a",
-  "source": "ATS/ashby",
-  "slug": "pleo",
   "sector": "fintech",
   "salary": ""
  },
@@ -80,16 +70,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - UK Market",
-  "company": "SumUp",
-  "location": "Barcelona, Barcelona, Spain",
-  "url": "https://sumup.com/careers/positions/8097283002?gh_jid=8097283002",
-  "source": "ATS/greenhouse",
-  "slug": "sumup",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative (Mid-Market & Enterprise)",
   "company": "Dojo",
   "location": "London",
@@ -126,16 +106,6 @@
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "DSP / SDR Receiver Engineer \u2014 Navigation & Communications",
-  "company": "Swan",
-  "location": "Remote",
-  "url": "https://jobs.ashbyhq.com/swan/cac547a6-1936-4bae-86ed-4f23281bdb29",
-  "source": "ATS/ashby",
-  "slug": "swan",
   "sector": "fintech",
   "salary": ""
  },
@@ -200,36 +170,6 @@
   "salary": ""
  },
  {
-  "title": "Director, Sales Development Americas | United States | Remote",
-  "company": "Grafana Labs",
-  "location": "United States (Remote)",
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6004701004",
-  "source": "ATS/greenhouse",
-  "slug": "grafanalabs",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative | Israel | Remote",
-  "company": "Grafana Labs",
-  "location": "Israel (Remote)",
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5996829004",
-  "source": "ATS/greenhouse",
-  "slug": "grafanalabs",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative | PST | Remote",
-  "company": "Grafana Labs",
-  "location": "United States (Remote)",
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6110395004",
-  "source": "ATS/greenhouse",
-  "slug": "grafanalabs",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Business Development Representative (EMEA)",
   "company": "Docker",
   "location": "England",
@@ -270,42 +210,12 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative UK&I (English speaking)",
-  "company": "Elastic",
-  "location": "Barcelona, Spain",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8035491&gh_jid=8035491",
-  "source": "ATS/greenhouse",
-  "slug": "elastic",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Sales Development Rep - EMEA",
   "company": "Honeycomb",
   "location": "Remote - United Kingdom",
   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5367252008",
   "source": "ATS/greenhouse",
   "slug": "honeycomb",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Rep- Hiring Multiple Headcount",
-  "company": "Honeycomb",
-  "location": "Remote - United States",
-  "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5012090008",
-  "source": "ATS/greenhouse",
-  "slug": "honeycomb",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, US",
-  "company": "Cribl",
-  "location": "Remote - United States",
-  "url": "https://cribl.io/job-detail/?gh_jid=6128059004",
-  "source": "ATS/greenhouse",
-  "slug": "cribl",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -340,40 +250,10 @@
   "salary": ""
  },
  {
-  "title": "Graduate Sales Development Representative - Canada (Remote)",
-  "company": "Canonical",
-  "location": "Home Based - Americas",
-  "url": "https://job-boards.greenhouse.io/canonical/jobs/7981854",
-  "source": "ATS/greenhouse",
-  "slug": "canonical",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Graduate Sales Development Representative (UK)",
   "company": "Canonical",
   "location": "Office Based - London, UK",
   "url": "https://job-boards.greenhouse.io/canonical/jobs/7661586",
-  "source": "ATS/greenhouse",
-  "slug": "canonical",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Regional BDR Team Manager",
-  "company": "Canonical",
-  "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA; Home based - Worldwide",
-  "url": "https://job-boards.greenhouse.io/canonical/jobs/4633682",
-  "source": "ATS/greenhouse",
-  "slug": "canonical",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Regional SDR Director",
-  "company": "Canonical",
-  "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA; Home based - Worldwide",
-  "url": "https://job-boards.greenhouse.io/canonical/jobs/8094035",
   "source": "ATS/greenhouse",
   "slug": "canonical",
   "sector": "cloudinfra",
@@ -430,42 +310,12 @@
   "salary": ""
  },
  {
-  "title": "\u30a4\u30f3\u30b5\u30a4\u30c9\u30bb\u30fc\u30eb\u30b9 (\u30ea\u30e2\u30fc\u30c8)/ Sales Development Representative (Remote)",
-  "company": "Canonical",
-  "location": "Home Based - APAC",
-  "url": "https://job-boards.greenhouse.io/canonical/jobs/5906570",
-  "source": "ATS/greenhouse",
-  "slug": "canonical",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - MENA",
-  "company": "GitLab",
-  "location": "Remote, UAE",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608546002",
-  "source": "ATS/greenhouse",
-  "slug": "gitlab",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative (Qodana) - m/w/d",
-  "company": "JetBrains",
-  "location": "Berlin, Germany; Munich, Germany; Remote, Germany",
-  "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4926286101",
-  "source": "ATS/greenhouse",
-  "slug": "jetbrains",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -476,56 +326,6 @@
   "url": "https://jobs.ashbyhq.com/temporal/99b2768c-0ce0-425b-84a4-de0fa400c18b",
   "source": "ATS/ashby",
   "slug": "temporal",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Manager, Sales Development",
-  "company": "Twilio",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8065928",
-  "source": "ATS/greenhouse",
-  "slug": "twilio",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Manager, Sales Development-LATAM / NAMER Hybrid",
-  "company": "Twilio",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8065930",
-  "source": "ATS/greenhouse",
-  "slug": "twilio",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Twilio",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/7481689",
-  "source": "ATS/greenhouse",
-  "slug": "twilio",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "Fivetran",
-  "location": "Dublin, Dublin, Ireland, EMEA",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7796551003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Commercial",
-  "company": "Fivetran",
-  "location": "Remote, Japan, APAC",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7724750003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -550,26 +350,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Zscaler",
-  "location": "Remote - Canada",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5195938007",
-  "source": "ATS/greenhouse",
-  "slug": "zscaler",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Netskope",
-  "location": "Sydney, New South Wales, Australia",
-  "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8050502",
-  "source": "ATS/greenhouse",
-  "slug": "netskope",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Senior Manager, SDR Enablement",
   "company": "Cato Networks",
   "location": "United Kingdom",
@@ -584,26 +364,6 @@
   "company": "Chainguard",
   "location": "Netherlands - Remote; United Kingdom - Remote",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4672057006",
-  "source": "ATS/greenhouse",
-  "slug": "chainguard",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Enterprise Business Development Representative - Central",
-  "company": "Chainguard",
-  "location": "United States - Remote",
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4677342006",
-  "source": "ATS/greenhouse",
-  "slug": "chainguard",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Enterprise Business Development Representative - West",
-  "company": "Chainguard",
-  "location": "United States - Remote",
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4663455006",
   "source": "ATS/greenhouse",
   "slug": "chainguard",
   "sector": "cybersecurity",
@@ -650,16 +410,6 @@
   "salary": ""
  },
  {
-  "title": "Inside Sales Representative MM, EMEA (PAM)",
-  "company": "Keeper Security",
-  "location": "Remote, Ireland",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4209313009",
-  "source": "ATS/greenhouse",
-  "slug": "keepersecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Inside Sales Representative MSP, Mid-Market",
   "company": "Keeper Security",
   "location": "Remote, US",
@@ -690,42 +440,12 @@
   "salary": ""
  },
  {
-  "title": "Inside Sales Representative SMB, Bilingual (German) - EMEA",
-  "company": "Keeper Security",
-  "location": "County Cork, Ireland",
-  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4184267009",
-  "source": "ATS/greenhouse",
-  "slug": "keepersecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Abnormal Security",
-  "location": "Remote - USA",
-  "url": "https://abnormal.ai/careers/jobs/7730831003?gh_jid=7730831003",
-  "source": "ATS/greenhouse",
-  "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative, Dutch Speaking",
   "company": "Abnormal Security",
   "location": "Remote - UK",
   "url": "https://abnormal.ai/careers/jobs/7779893003?gh_jid=7779893003",
   "source": "ATS/greenhouse",
   "slug": "abnormalsecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Huntress",
-  "location": "Remote US",
-  "url": "https://job-boards.greenhouse.io/huntress/jobs/6485841003",
-  "source": "ATS/greenhouse",
-  "slug": "huntress",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -810,30 +530,10 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, APAC - Singlish",
-  "company": "Cresta",
-  "location": "Australia (Remote)",
-  "url": "https://job-boards.greenhouse.io/cresta/jobs/5216587008",
-  "source": "ATS/greenhouse",
-  "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative EMEA, London",
   "company": "Cresta",
   "location": "United Kingdom (Remote)",
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
-  "source": "ATS/greenhouse",
-  "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative Iberia Region, Madrid",
-  "company": "Cresta",
-  "location": "Spain (Remote)",
-  "url": "https://job-boards.greenhouse.io/cresta/jobs/5287599008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
   "sector": "salestech_b2b",
@@ -870,40 +570,10 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative (Barcelona)",
-  "company": "Typeform",
-  "location": "Spain (Remote)",
-  "url": "https://job-boards.greenhouse.io/typeform/jobs/7815419",
-  "source": "ATS/greenhouse",
-  "slug": "typeform",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "360Learning",
-  "location": "Paris, Remote",
-  "url": "https://jobs.lever.co/360learning/8215a83b-9a9e-458d-a8b6-9750fce8eb0e",
-  "source": "ATS/lever",
-  "slug": "360learning",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
   "title": "Business Development Representative DACH",
   "company": "360Learning",
   "location": "London, Remote",
   "url": "https://jobs.lever.co/360learning/cde72d51-cabb-4cad-8c4e-aeacf4051b29",
-  "source": "ATS/lever",
-  "slug": "360learning",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative DACH (m/f/d)",
-  "company": "360Learning",
-  "location": "Berlin, Remote",
-  "url": "https://jobs.lever.co/360learning/9088bdca-e6a2-499e-8848-86a0f7094418",
   "source": "ATS/lever",
   "slug": "360learning",
   "sector": "salestech_b2b",
