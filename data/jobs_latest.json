@@ -50,16 +50,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -588,5 +578,15 @@
   "slug": "360learning",
   "sector": "salestech_b2b",
   "salary": ""
+ },
+ {
+  "title": "Sales Development Representative (SDR), Enterprise 1 - UK",
+  "company": "Awardco",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5824404568?utm_medium=api&utm_source=9520383d",
+  "salary": "\u00a336,328 - \u00a336,328",
+  "source": "Adzuna",
+  "sector": "unknown",
+  "posted": "2026-08-01"
  }
 ]
