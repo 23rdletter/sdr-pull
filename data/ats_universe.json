@@ -1366,5 +1366,23 @@
   "sector": "energy_finance",
   "ats": "ashby",
   "slug": "sprout-ai"
+ },
+ {
+  "company": "Seismic",
+  "sector": "salestech_b2b",
+  "ats": "workable",
+  "slug": "seismic"
+ },
+ {
+  "company": "Clay",
+  "sector": "salestech_b2b",
+  "ats": "recruitee",
+  "slug": "clay"
+ },
+ {
+  "company": "Kahoot",
+  "sector": "salestech_b2b",
+  "ats": "workable",
+  "slug": "kahoot"
  }
 ]
