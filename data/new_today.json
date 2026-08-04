@@ -1,12 +1,32 @@
 [
  {
-  "title": "Sales Development Representative, UK&I",
-  "company": "Vercel",
-  "location": "Hybrid - London",
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004",
-  "source": "ATS/greenhouse",
-  "slug": "vercel",
-  "sector": "cloudinfra",
+  "title": "Manager, Sales Development Enterprise UK",
+  "company": "Airwallex",
+  "location": "UK - London",
+  "url": "https://jobs.ashbyhq.com/airwallex/7fc0f49a-3fa4-4dec-8e92-bb167e484dc0",
+  "source": "ATS/ashby",
+  "slug": "airwallex",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/548F3FD161",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
   "salary": ""
  }
 ]

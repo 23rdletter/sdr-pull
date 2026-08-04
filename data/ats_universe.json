@@ -1384,5 +1384,11 @@
   "sector": "salestech_b2b",
   "ats": "workable",
   "slug": "kahoot"
+ },
+ {
+  "company": "Instanda",
+  "sector": "energy_finance",
+  "ats": "workable",
+  "slug": "instanda"
  }
 ]

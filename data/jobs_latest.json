@@ -50,6 +50,26 @@
   "salary": ""
  },
  {
+  "title": "Manager, Sales Development Enterprise UK",
+  "company": "Airwallex",
+  "location": "UK - London",
+  "url": "https://jobs.ashbyhq.com/airwallex/7fc0f49a-3fa4-4dec-8e92-bb167e484dc0",
+  "source": "ATS/ashby",
+  "slug": "airwallex",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -96,6 +116,26 @@
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/548F3FD161",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -302,8 +342,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -456,16 +496,6 @@
   "url": "https://jobs.ashbyhq.com/drata/84019da9-a394-4dec-a7e7-bbf0bb941b30",
   "source": "ATS/ashby",
   "slug": "drata",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, Enterprise EMEA",
-  "company": "HackerOne",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/hackerone/92550aaf-7174-42e4-9048-a83963540a75",
-  "source": "ATS/ashby",
-  "slug": "hackerone",
   "sector": "cybersecurity",
   "salary": ""
  },
