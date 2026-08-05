@@ -1,32 +1,22 @@
 [
  {
-  "title": "Manager, Sales Development Enterprise UK",
-  "company": "Airwallex",
-  "location": "UK - London",
-  "url": "https://jobs.ashbyhq.com/airwallex/7fc0f49a-3fa4-4dec-8e92-bb167e484dc0",
+  "title": "SDR Intern - London",
+  "company": "Snowflake",
+  "location": "GB-London",
+  "url": "https://jobs.ashbyhq.com/snowflake/b9bd62f1-ad91-423a-a680-cf9366960976",
   "source": "ATS/ashby",
-  "slug": "airwallex",
-  "sector": "fintech",
+  "slug": "snowflake",
+  "sector": "cloudinfra",
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/548F3FD161",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - Hebrew Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/6DC17BDF1B",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
+  "title": "Senior Business Development Representative [Enterprise]",
+  "company": "Mindtickle",
+  "location": "Remote, US",
+  "url": "https://jobs.lever.co/mindtickle/f0f6a4ac-7d5f-4c86-9946-85e2ebe15c11",
+  "source": "ATS/lever",
+  "slug": "mindtickle",
+  "sector": "salestech_b2b",
   "salary": ""
  }
 ]

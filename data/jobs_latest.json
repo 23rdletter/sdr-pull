@@ -60,16 +60,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -100,42 +90,12 @@
   "salary": ""
  },
  {
-  "title": "Inside Sales Enablemetn Specialist",
-  "company": "Teya",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/teya/cf2292f7-2ca3-4754-9723-f2569547c0aa",
-  "source": "ATS/ashby",
-  "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative",
   "company": "Teya",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/548F3FD161",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - Hebrew Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/6DC17BDF1B",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -260,6 +220,16 @@
   "salary": ""
  },
  {
+  "title": "SDR Intern - London",
+  "company": "Snowflake",
+  "location": "GB-London",
+  "url": "https://jobs.ashbyhq.com/snowflake/b9bd62f1-ad91-423a-a680-cf9366960976",
+  "source": "ATS/ashby",
+  "slug": "snowflake",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative with French - Field Sales - UK",
   "company": "Redis",
   "location": "United Kingdom",
@@ -342,8 +312,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -396,16 +366,6 @@
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4672057006",
   "source": "ATS/greenhouse",
   "slug": "chainguard",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, Commercial/Enterprise (DACH)",
-  "company": "1Password",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/1password/8f1e241d-26f3-4b88-980d-35116bc2c4f0",
-  "source": "ATS/ashby",
-  "slug": "1password",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -516,6 +476,16 @@
   "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Senior Business Development Representative [Enterprise]",
+  "company": "Mindtickle",
+  "location": "Remote, US",
+  "url": "https://jobs.lever.co/mindtickle/f0f6a4ac-7d5f-4c86-9946-85e2ebe15c11",
+  "source": "ATS/lever",
+  "slug": "mindtickle",
   "sector": "salestech_b2b",
   "salary": ""
  },
