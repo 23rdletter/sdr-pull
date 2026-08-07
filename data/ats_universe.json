@@ -1390,5 +1390,11 @@
   "sector": "energy_finance",
   "ats": "workable",
   "slug": "instanda"
+ },
+ {
+  "company": "Supercritical",
+  "sector": "energy_finance",
+  "ats": "workable",
+  "slug": "supercritical"
  }
 ]

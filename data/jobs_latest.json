@@ -50,6 +50,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -90,22 +100,42 @@
   "salary": ""
  },
  {
+  "title": "Business Development Consultant (Payments)",
+  "company": "Teya",
+  "location": "Reading",
+  "url": "https://jobs.ashbyhq.com/teya/1bc7252a-8bca-4f31-bf3e-f968d07b981c",
+  "source": "ATS/ashby",
+  "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/548F3FD161",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Enterprise Business Development Representative",
   "company": "Sardine",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/sardine/612b35b0-8787-475c-9ff1-b4f2d280d90b",
   "source": "ATS/ashby",
   "slug": "sardine",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - EMEA",
-  "company": "Fingerprint",
-  "location": "Remote",
-  "url": "https://fingerprint.com/careers/jobs/apply/?gh_jid=5977305004",
-  "source": "ATS/greenhouse",
-  "slug": "fingerprint",
   "sector": "fintech",
   "salary": ""
  },
@@ -170,7 +200,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - German Speaker",
+  "title": "Business Development Representative",
   "company": "JFrog",
   "location": "london, uk",
   "url": "https://join.jfrog.com/job/?job=7963399&gh_jid=7963399",
@@ -196,6 +226,16 @@
   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5367252008",
   "source": "ATS/greenhouse",
   "slug": "honeycomb",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, UK Territory",
+  "company": "Cribl",
+  "location": "Remote - London, United Kingdom",
+  "url": "https://cribl.io/job-detail/?gh_jid=5826705004",
+  "source": "ATS/greenhouse",
+  "slug": "cribl",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -302,8 +342,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
