@@ -1,31 +1,11 @@
 [
  {
-  "title": "Business Development Consultant (Payments)",
-  "company": "Teya",
-  "location": "Reading",
-  "url": "https://jobs.ashbyhq.com/teya/1bc7252a-8bca-4f31-bf3e-f968d07b981c",
-  "source": "ATS/ashby",
-  "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "JFrog",
-  "location": "london, uk",
-  "url": "https://join.jfrog.com/job/?job=7963399&gh_jid=7963399",
+  "title": "Business Development Representative - UKI",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
   "source": "ATS/greenhouse",
-  "slug": "jfrog",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, UK Territory",
-  "company": "Cribl",
-  "location": "Remote - London, United Kingdom",
-  "url": "https://cribl.io/job-detail/?gh_jid=5826705004",
-  "source": "ATS/greenhouse",
-  "slug": "cribl",
+  "slug": "gitlab",
   "sector": "cloudinfra",
   "salary": ""
  }
