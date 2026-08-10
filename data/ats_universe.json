@@ -1396,5 +1396,17 @@
   "sector": "energy_finance",
   "ats": "workable",
   "slug": "supercritical"
+ },
+ {
+  "company": "Habitat Energy",
+  "sector": "energy_finance",
+  "ats": "workable",
+  "slug": "habitat-energy"
+ },
+ {
+  "company": "Gridcog",
+  "sector": "energy_finance",
+  "ats": "workable",
+  "slug": "gridcog"
  }
 ]
