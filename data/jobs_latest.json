@@ -50,16 +50,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -106,26 +96,6 @@
   "url": "https://jobs.ashbyhq.com/teya/1bc7252a-8bca-4f31-bf3e-f968d07b981c",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/548F3FD161",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - Hebrew Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/6DC17BDF1B",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -350,12 +320,32 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative, German Speaking",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691636002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative - UKI",
   "company": "GitLab",
   "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Inbound Sales Development Representative, EMEA",
+  "company": "LaunchDarkly",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7732479003",
+  "source": "ATS/greenhouse",
+  "slug": "launchdarkly",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -513,7 +503,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",

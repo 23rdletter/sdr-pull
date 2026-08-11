@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "title": "Business Development Representative, German Speaking",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691636002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Inbound Sales Development Representative, EMEA",
+  "company": "LaunchDarkly",
+  "location": "London, England, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7732479003",
+  "source": "ATS/greenhouse",
+  "slug": "launchdarkly",
+  "sector": "cloudinfra",
+  "salary": ""
+ }
+]
