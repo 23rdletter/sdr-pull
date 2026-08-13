@@ -60,16 +60,6 @@
   "salary": ""
  },
  {
-  "title": "Account Manager (Outbound Sales)",
-  "company": "Funding Circle",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/fundingcircle/189ece78-ad91-4f8b-8d17-1a0b780f57ae",
-  "source": "ATS/ashby",
-  "slug": "fundingcircle",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Business Development Representative (Mid-Market & Enterprise)",
   "company": "Dojo",
   "location": "London",
@@ -196,16 +186,6 @@
   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5367252008",
   "source": "ATS/greenhouse",
   "slug": "honeycomb",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, UK Territory",
-  "company": "Cribl",
-  "location": "Remote - London, United Kingdom",
-  "url": "https://cribl.io/job-detail/?gh_jid=5826705004",
-  "source": "ATS/greenhouse",
-  "slug": "cribl",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -546,16 +526,6 @@
   "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066423101",
   "source": "ATS/greenhouse",
   "slug": "amplemarket",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative",
-  "company": "ZoomInfo",
-  "location": "London, United Kingdom",
-  "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
-  "source": "ATS/greenhouse",
-  "slug": "zoominfo",
   "sector": "salestech_b2b",
   "salary": ""
  },
