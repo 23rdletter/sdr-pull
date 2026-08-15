@@ -50,6 +50,16 @@
   "salary": ""
  },
  {
+  "title": "BDR Team Lead",
+  "company": "Paddle",
+  "location": "UK",
+  "url": "https://jobs.ashbyhq.com/paddle/723f3346-c36e-43fa-bd37-703eb42dde66",
+  "source": "ATS/ashby",
+  "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -380,16 +390,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - Benelux",
-  "company": "Chainguard",
-  "location": "Netherlands - Remote; United Kingdom - Remote",
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4672057006",
-  "source": "ATS/greenhouse",
-  "slug": "chainguard",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Business Development Representative, SMB (German)",
   "company": "1Password",
   "location": "United Kingdom",
@@ -587,6 +587,16 @@
   "source": "ATS/lever",
   "slug": "360learning",
   "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative",
+  "company": "Arcadia",
+  "location": "Boston, DC, Remote",
+  "url": "https://jobs.lever.co/arcadia/529edd7b-5e37-4d8c-9b91-c48776764e70",
+  "source": "ATS/lever",
+  "slug": "arcadia",
+  "sector": "energy_finance",
   "salary": ""
  },
  {
