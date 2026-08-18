@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "title": "Business Development Representative - Nordics",
+  "company": "GitLab",
+  "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
+  "source": "ATS/greenhouse",
+  "slug": "gitlab",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, EMEA",
+  "company": "Outreach",
+  "location": "London",
+  "url": "https://jobs.lever.co/outreach/f856290a-e62e-4748-9247-2728acd03360",
+  "source": "ATS/lever",
+  "slug": "outreach",
+  "sector": "salestech_b2b",
+  "salary": ""
+ }
+]

@@ -150,26 +150,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative (EMEA)",
-  "company": "Docker",
-  "location": "England",
-  "url": "https://jobs.ashbyhq.com/docker/f86d037f-b65b-473b-afc9-d8b2c438f431",
-  "source": "ATS/ashby",
-  "slug": "docker",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Senior Business Development Representative",
-  "company": "Docker",
-  "location": "England",
-  "url": "https://jobs.ashbyhq.com/docker/7f225e54-75fb-4d6b-83d0-4e18fe44e669",
-  "source": "ATS/ashby",
-  "slug": "docker",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Business Development Representative",
   "company": "JFrog",
   "location": "london, uk",
@@ -302,8 +282,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -320,7 +300,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - UKI",
+  "title": "Business Development Representative - Nordics",
   "company": "GitLab",
   "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
@@ -493,14 +473,14 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
+  "title": "Sales Development Representative, EMEA",
   "company": "Outreach",
   "location": "London",
   "url": "https://jobs.lever.co/outreach/f856290a-e62e-4748-9247-2728acd03360",
