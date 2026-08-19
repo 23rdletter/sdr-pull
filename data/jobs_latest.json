@@ -310,22 +310,12 @@
   "salary": ""
  },
  {
-  "title": "Inbound Sales Development Representative, EMEA",
+  "title": "Inbound Sales Development Representative - EMEA",
   "company": "LaunchDarkly",
   "location": "London, England, United Kingdom",
   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7732479003",
   "source": "ATS/greenhouse",
   "slug": "launchdarkly",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative, EMEA",
-  "company": "Temporal",
-  "location": "London, England",
-  "url": "https://jobs.ashbyhq.com/temporal/99b2768c-0ce0-425b-84a4-de0fa400c18b",
-  "source": "ATS/ashby",
-  "slug": "temporal",
   "sector": "cloudinfra",
   "salary": ""
  },
