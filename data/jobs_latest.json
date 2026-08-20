@@ -20,16 +20,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, Commercial",
-  "company": "Airwallex",
-  "location": "US - Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/dfb05e09-e9d9-40f2-82e7-3d3e6fca3510",
-  "source": "ATS/ashby",
-  "slug": "airwallex",
-  "sector": "fintech",
-  "salary": ""
- },
- {
   "title": "Manager, Sales Development, SME & Growth",
   "company": "Airwallex",
   "location": "US - Remote",
@@ -44,6 +34,16 @@
   "company": "Airwallex",
   "location": "UK - London",
   "url": "https://jobs.ashbyhq.com/airwallex/7fc0f49a-3fa4-4dec-8e92-bb167e484dc0",
+  "source": "ATS/ashby",
+  "slug": "airwallex",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, Commercial",
+  "company": "Airwallex",
+  "location": "US - Remote",
+  "url": "https://jobs.ashbyhq.com/airwallex/3e4d5cb5-598b-4db3-9ae4-ca53a4cd6e00",
   "source": "ATS/ashby",
   "slug": "airwallex",
   "sector": "fintech",
@@ -282,8 +282,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -316,6 +316,16 @@
   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7732479003",
   "source": "ATS/greenhouse",
   "slug": "launchdarkly",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Business Development Representative - London",
+  "company": "PagerDuty",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144822004",
+  "source": "ATS/greenhouse",
+  "slug": "pagerduty",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -530,16 +540,6 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative (SDR)",
-  "company": "Dovetail",
-  "location": "US Remote",
-  "url": "https://jobs.ashbyhq.com/dovetail/7d254642-33c6-47c0-b1a5-3886aa85b433",
-  "source": "ATS/ashby",
-  "slug": "dovetail",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
   "title": "Business Development Representative DACH",
   "company": "360Learning",
   "location": "London, Remote",
@@ -568,15 +568,5 @@
   "slug": "arcadia",
   "sector": "energy_finance",
   "salary": ""
- },
- {
-  "title": "Sales Development Representative (SDR), Enterprise 1 - UK",
-  "company": "Awardco",
-  "location": "London, UK",
-  "url": "https://www.adzuna.co.uk/jobs/details/5824404568?utm_medium=api&utm_source=9520383d",
-  "salary": "\u00a336,328 - \u00a336,328",
-  "source": "Adzuna",
-  "sector": "unknown",
-  "posted": "2026-08-01"
  }
 ]
