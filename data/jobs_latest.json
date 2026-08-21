@@ -282,8 +282,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -473,7 +473,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
@@ -540,6 +540,16 @@
   "salary": ""
  },
  {
+  "title": "Inside Sales Representative, EMEA",
+  "company": "Mixpanel",
+  "location": "London, UK (Hybrid)",
+  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
+  "source": "ATS/greenhouse",
+  "slug": "mixpanel",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative DACH",
   "company": "360Learning",
   "location": "London, Remote",
@@ -568,5 +578,15 @@
   "slug": "arcadia",
   "sector": "energy_finance",
   "salary": ""
+ },
+ {
+  "title": "Sales Development Representative (SDR), Enterprise 1 - UK",
+  "company": "Awardco",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5824404568?utm_medium=api&utm_source=9520383d",
+  "salary": "\u00a336,328 - \u00a336,328",
+  "source": "Adzuna",
+  "sector": "unknown",
+  "posted": "2026-08-01"
  }
 ]
