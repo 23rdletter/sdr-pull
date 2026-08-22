@@ -1,12 +1,22 @@
 [
  {
-  "title": "Inside Sales Representative, EMEA",
-  "company": "Mixpanel",
-  "location": "London, UK (Hybrid)",
-  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
+  "title": "Business Development Representative , Startups",
+  "company": "Vercel",
+  "location": "Hybrid - London",
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
   "source": "ATS/greenhouse",
-  "slug": "mixpanel",
-  "sector": "salestech_b2b",
+  "slug": "vercel",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Mirantis",
+  "location": "Remote, us",
+  "url": "https://jobs.smartrecruiters.com/mirantis/744000144764194",
+  "source": "ATS/smartrecruiters",
+  "slug": "mirantis",
+  "sector": "cloudinfra",
   "salary": ""
  }
 ]
