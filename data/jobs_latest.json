@@ -302,8 +302,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -588,5 +588,15 @@
   "slug": "arcadia",
   "sector": "energy_finance",
   "salary": ""
+ },
+ {
+  "title": "Sales Development Representative (SDR), Enterprise 1 - UK",
+  "company": "Awardco",
+  "location": "London, UK",
+  "url": "https://www.adzuna.co.uk/jobs/details/5824404568?utm_medium=api&utm_source=9520383d",
+  "salary": "\u00a336,328 - \u00a336,328",
+  "source": "Adzuna",
+  "sector": "unknown",
+  "posted": "2026-08-01"
  }
 ]
