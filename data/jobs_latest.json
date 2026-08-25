@@ -150,6 +150,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative (EMEA)",
+  "company": "Docker",
+  "location": "England",
+  "url": "https://jobs.ashbyhq.com/docker/f86d037f-b65b-473b-afc9-d8b2c438f431",
+  "source": "ATS/ashby",
+  "slug": "docker",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative",
   "company": "JFrog",
   "location": "london, uk",
@@ -214,16 +224,6 @@
   "company": "Vercel",
   "location": "Hybrid - London",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
-  "source": "ATS/greenhouse",
-  "slug": "vercel",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative, UK&I",
-  "company": "Vercel",
-  "location": "Hybrid - London",
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004",
   "source": "ATS/greenhouse",
   "slug": "vercel",
   "sector": "cloudinfra",
@@ -302,8 +302,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -520,6 +520,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative I",
+  "company": "ZoomInfo",
+  "location": "London, United Kingdom",
+  "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
+  "source": "ATS/greenhouse",
+  "slug": "zoominfo",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - London",
   "company": "Decagon",
   "location": "London",
@@ -536,16 +546,6 @@
   "url": "https://job-boards.greenhouse.io/cresta/jobs/5285534008",
   "source": "ATS/greenhouse",
   "slug": "cresta",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative - French Markets",
-  "company": "Pendo",
-  "location": "London",
-  "url": "https://job-boards.greenhouse.io/pendo/jobs/8542606002",
-  "source": "ATS/greenhouse",
-  "slug": "pendo",
   "sector": "salestech_b2b",
   "salary": ""
  },
