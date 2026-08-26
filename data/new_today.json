@@ -1,12 +1,12 @@
 [
  {
-  "title": "Sales Development Representative I",
-  "company": "ZoomInfo",
-  "location": "London, United Kingdom",
-  "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
+  "title": "Sales Development Representative 2",
+  "company": "Twilio",
+  "location": "Remote - United Kingdom",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8112239",
   "source": "ATS/greenhouse",
-  "slug": "zoominfo",
-  "sector": "salestech_b2b",
+  "slug": "twilio",
+  "sector": "cloudinfra",
   "salary": ""
  }
 ]
