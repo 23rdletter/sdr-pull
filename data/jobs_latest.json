@@ -3,7 +3,7 @@
   "title": "Sales Development Representative",
   "company": "GoCardless",
   "location": "Leeds, UK",
-  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8071633",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/7988744",
   "source": "ATS/greenhouse",
   "slug": "gocardless",
   "sector": "fintech",
@@ -210,10 +210,30 @@
   "salary": ""
  },
  {
+  "title": "Sr. Sales Development Representative - French Speaking",
+  "company": "Snowflake",
+  "location": "GB-London",
+  "url": "https://jobs.ashbyhq.com/snowflake/250031fc-49bf-4c6d-abb7-74b9b21c58ee",
+  "source": "ATS/ashby",
+  "slug": "snowflake",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative with French - Field Sales - UK",
   "company": "Redis",
   "location": "United Kingdom",
   "url": "https://jobs.ashbyhq.com/redis/d94ff9f8-6c14-4af0-88be-3ff8524da3fe",
+  "source": "ATS/ashby",
+  "slug": "redis",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - German speaking",
+  "company": "Redis",
+  "location": "London, England",
+  "url": "https://jobs.ashbyhq.com/redis/f47155e6-bcac-4e8d-8bfc-cb8903e4d1f7",
   "source": "ATS/ashby",
   "slug": "redis",
   "sector": "cloudinfra",
@@ -290,10 +310,10 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
+  "title": "Sales Development Representative (Remote on the West Coast)",
   "company": "Mirantis",
-  "location": "Remote, us",
-  "url": "https://jobs.smartrecruiters.com/mirantis/744000144764194",
+  "location": "Portland, us",
+  "url": "https://jobs.smartrecruiters.com/mirantis/744000146000619",
   "source": "ATS/smartrecruiters",
   "slug": "mirantis",
   "sector": "cloudinfra",
@@ -302,8 +322,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, North America",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -450,6 +470,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative",
+  "company": "BeyondTrust",
+  "location": "Hybrid Manchester, UK",
+  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8156199",
+  "source": "ATS/greenhouse",
+  "slug": "beyondtrust",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative, Dutch Speaking",
   "company": "Abnormal Security",
   "location": "Remote - UK",
@@ -493,7 +523,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
@@ -536,16 +566,6 @@
   "url": "https://www.zoominfo.com/careers?gh_jid=7795003002",
   "source": "ATS/greenhouse",
   "slug": "zoominfo",
-  "sector": "salestech_b2b",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - London",
-  "company": "Decagon",
-  "location": "London",
-  "url": "https://jobs.ashbyhq.com/decagon/1092b10a-f4d4-4150-b780-62b87f7661e1",
-  "source": "ATS/ashby",
-  "slug": "decagon",
   "sector": "salestech_b2b",
   "salary": ""
  },
@@ -598,15 +618,5 @@
   "slug": "arcadia",
   "sector": "energy_finance",
   "salary": ""
- },
- {
-  "title": "Sales Development Representative (SDR), Enterprise 1 - UK",
-  "company": "Awardco",
-  "location": "London, UK",
-  "url": "https://www.adzuna.co.uk/jobs/details/5824404568?utm_medium=api&utm_source=9520383d",
-  "salary": "\u00a336,328 - \u00a336,328",
-  "source": "Adzuna",
-  "sector": "unknown",
-  "posted": "2026-08-01"
  }
 ]
