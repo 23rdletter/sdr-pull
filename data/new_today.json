@@ -1,42 +1,22 @@
 [
  {
-  "title": "Sr. Sales Development Representative - French Speaking",
-  "company": "Snowflake",
-  "location": "GB-London",
-  "url": "https://jobs.ashbyhq.com/snowflake/250031fc-49bf-4c6d-abb7-74b9b21c58ee",
+  "title": "Senior Sales Development Representative (German-speaking, UK)",
+  "company": "Coder",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/coder/9605615c-db33-496d-8173-fc9caf3b6869",
   "source": "ATS/ashby",
-  "slug": "snowflake",
+  "slug": "coder",
   "sector": "cloudinfra",
   "salary": ""
  },
  {
-  "title": "Sales Development Representative - German speaking",
-  "company": "Redis",
-  "location": "London, England",
-  "url": "https://jobs.ashbyhq.com/redis/f47155e6-bcac-4e8d-8bfc-cb8903e4d1f7",
-  "source": "ATS/ashby",
-  "slug": "redis",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative (Remote on the West Coast)",
-  "company": "Mirantis",
-  "location": "Portland, us",
-  "url": "https://jobs.smartrecruiters.com/mirantis/744000146000619",
-  "source": "ATS/smartrecruiters",
-  "slug": "mirantis",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative",
-  "company": "BeyondTrust",
-  "location": "Hybrid Manchester, UK",
-  "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8156199",
+  "title": "Business Development Representative - London - German Speaker",
+  "company": "PagerDuty",
+  "location": "London",
+  "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144822004",
   "source": "ATS/greenhouse",
-  "slug": "beyondtrust",
-  "sector": "cybersecurity",
+  "slug": "pagerduty",
+  "sector": "cloudinfra",
   "salary": ""
  }
 ]

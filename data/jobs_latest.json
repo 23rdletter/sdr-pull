@@ -210,16 +210,6 @@
   "salary": ""
  },
  {
-  "title": "Sr. Sales Development Representative - French Speaking",
-  "company": "Snowflake",
-  "location": "GB-London",
-  "url": "https://jobs.ashbyhq.com/snowflake/250031fc-49bf-4c6d-abb7-74b9b21c58ee",
-  "source": "ATS/ashby",
-  "slug": "snowflake",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative with French - Field Sales - UK",
   "company": "Redis",
   "location": "United Kingdom",
@@ -244,6 +234,16 @@
   "company": "Vercel",
   "location": "Hybrid - London",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
+  "source": "ATS/greenhouse",
+  "slug": "vercel",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, UK&I",
+  "company": "Vercel",
+  "location": "Hybrid - London",
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004",
   "source": "ATS/greenhouse",
   "slug": "vercel",
   "sector": "cloudinfra",
@@ -310,20 +310,20 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative (Remote on the West Coast)",
-  "company": "Mirantis",
-  "location": "Portland, us",
-  "url": "https://jobs.smartrecruiters.com/mirantis/744000146000619",
-  "source": "ATS/smartrecruiters",
-  "slug": "mirantis",
+  "title": "Senior Sales Development Representative (German-speaking, UK)",
+  "company": "Coder",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/coder/9605615c-db33-496d-8173-fc9caf3b6869",
+  "source": "ATS/ashby",
+  "slug": "coder",
   "sector": "cloudinfra",
   "salary": ""
  },
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -360,6 +360,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative, EMEA",
+  "company": "Temporal",
+  "location": "London, England",
+  "url": "https://jobs.ashbyhq.com/temporal/99b2768c-0ce0-425b-84a4-de0fa400c18b",
+  "source": "ATS/ashby",
+  "slug": "temporal",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative 2",
   "company": "Twilio",
   "location": "Remote - United Kingdom",
@@ -370,7 +380,7 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative - London",
+  "title": "Business Development Representative - London - German Speaker",
   "company": "PagerDuty",
   "location": "London",
   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144822004",
@@ -510,20 +520,10 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative (BDR) - UK",
-  "company": "Oasis Security",
-  "location": "Remote - UK",
-  "url": "https://job-boards.greenhouse.io/oasissecurity/jobs/5228961008",
-  "source": "ATS/greenhouse",
-  "slug": "oasissecurity",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
