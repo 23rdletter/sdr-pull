@@ -60,6 +60,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Outbound Sales Manager",
   "company": "Funding Circle",
   "location": "London",
@@ -106,6 +116,26 @@
   "url": "https://jobs.ashbyhq.com/teya/1bc7252a-8bca-4f31-bf3e-f968d07b981c",
   "source": "ATS/ashby",
   "slug": "teya",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - German Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/E12850D7C9",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -436,6 +466,16 @@
   "url": "https://jobs.ashbyhq.com/1password/ade34b80-d901-4a20-91c8-779f903ec19a",
   "source": "ATS/ashby",
   "slug": "1password",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Inside Sales Representative, Mid-Market",
+  "company": "Keeper Security",
+  "location": "Remote, US",
+  "url": "https://job-boards.greenhouse.io/keepersecurity/jobs/4387123009",
+  "source": "ATS/greenhouse",
+  "slug": "keepersecurity",
   "sector": "cybersecurity",
   "salary": ""
  },
