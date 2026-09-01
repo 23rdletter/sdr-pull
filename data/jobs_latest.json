@@ -40,7 +40,7 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative, Commercial",
+  "title": "Sales Development Representative, SME & Growth",
   "company": "Airwallex",
   "location": "US - Remote",
   "url": "https://jobs.ashbyhq.com/airwallex/3e4d5cb5-598b-4db3-9ae4-ca53a4cd6e00",
@@ -56,6 +56,16 @@
   "url": "https://jobs.ashbyhq.com/paddle/723f3346-c36e-43fa-bd37-703eb42dde66",
   "source": "ATS/ashby",
   "slug": "paddle",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative",
+  "company": "Yapily",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/EE7B219746",
+  "source": "ATS/workable",
+  "slug": "yapily",
   "sector": "fintech",
   "salary": ""
  },
@@ -110,6 +120,26 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Representative - German Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/E12850D7C9",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative - Hebrew Speaking",
+  "company": "Nuvei",
+  "location": "London, United Kingdom",
+  "url": "https://apply.workable.com/j/6DC17BDF1B",
+  "source": "ATS/workable",
+  "slug": "nuvei",
+  "sector": "fintech",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative - US",
   "company": "Fingerprint",
   "location": "Remote",
@@ -147,16 +177,6 @@
   "source": "ATS/ashby",
   "slug": "vertice",
   "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Representative (EMEA)",
-  "company": "Docker",
-  "location": "England",
-  "url": "https://jobs.ashbyhq.com/docker/f86d037f-b65b-473b-afc9-d8b2c438f431",
-  "source": "ATS/ashby",
-  "slug": "docker",
-  "sector": "cloudinfra",
   "salary": ""
  },
  {
@@ -400,6 +420,16 @@
   "salary": ""
  },
  {
+  "title": "Business Development Representative (London)",
+  "company": "Fivetran",
+  "location": "London, England, United Kingdom",
+  "url": "https://www.fivetran.com/careers/job?gh_jid=7981487003",
+  "source": "ATS/greenhouse",
+  "slug": "fivetran",
+  "sector": "cloudinfra",
+  "salary": ""
+ },
+ {
   "title": "Sales Development Representative, Ad Studio",
   "company": "Hightouch",
   "location": "Remote",
@@ -420,6 +450,16 @@
   "salary": ""
  },
  {
+  "title": "Sales Development Specialist",
+  "company": "Zscaler",
+  "location": "City of London Corporation, GBR",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196281007",
+  "source": "ATS/greenhouse",
+  "slug": "zscaler",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
   "title": "Business Development Representative, SMB (German)",
   "company": "1Password",
   "location": "United Kingdom",
@@ -436,6 +476,16 @@
   "url": "https://jobs.ashbyhq.com/1password/ade34b80-d901-4a20-91c8-779f903ec19a",
   "source": "ATS/ashby",
   "slug": "1password",
+  "sector": "cybersecurity",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative (Outbound)",
+  "company": "Bitwarden",
+  "location": "Remote, U.S.",
+  "url": "https://bitwarden.com/careers/7824330003/?gh_jid=7824330003",
+  "source": "ATS/greenhouse",
+  "slug": "bitwarden",
   "sector": "cybersecurity",
   "salary": ""
  },
@@ -533,7 +583,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
