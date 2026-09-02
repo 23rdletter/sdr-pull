@@ -1,42 +1,22 @@
 [
  {
-  "title": "Sales Development Representative, SME & Growth",
-  "company": "Airwallex",
-  "location": "US - Remote",
-  "url": "https://jobs.ashbyhq.com/airwallex/3e4d5cb5-598b-4db3-9ae4-ca53a4cd6e00",
+  "title": "Sales Development Manager",
+  "company": "Funding Circle",
+  "location": "London",
+  "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
   "source": "ATS/ashby",
-  "slug": "airwallex",
+  "slug": "fundingcircle",
   "sector": "fintech",
   "salary": ""
  },
  {
-  "title": "Business Development Representative (London)",
-  "company": "Fivetran",
-  "location": "London, England, United Kingdom",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7981487003",
-  "source": "ATS/greenhouse",
-  "slug": "fivetran",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Specialist",
-  "company": "Zscaler",
-  "location": "City of London Corporation, GBR",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196281007",
-  "source": "ATS/greenhouse",
-  "slug": "zscaler",
-  "sector": "cybersecurity",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative (Outbound)",
-  "company": "Bitwarden",
-  "location": "Remote, U.S.",
-  "url": "https://bitwarden.com/careers/7824330003/?gh_jid=7824330003",
-  "source": "ATS/greenhouse",
-  "slug": "bitwarden",
-  "sector": "cybersecurity",
+  "title": "Sales Development Representative, UKI",
+  "company": "Contentsquare",
+  "location": "London",
+  "url": "https://jobs.lever.co/contentsquare/0ab78722-f903-4c87-b5e2-19c21630295c",
+  "source": "ATS/lever",
+  "slug": "contentsquare",
+  "sector": "salestech_b2b",
   "salary": ""
  }
 ]

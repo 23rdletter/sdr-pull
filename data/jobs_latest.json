@@ -60,17 +60,7 @@
   "salary": ""
  },
  {
-  "title": "Sales Development Representative",
-  "company": "Yapily",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/EE7B219746",
-  "source": "ATS/workable",
-  "slug": "yapily",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Outbound Sales Manager",
+  "title": "Sales Development Manager",
   "company": "Funding Circle",
   "location": "London",
   "url": "https://jobs.ashbyhq.com/fundingcircle/d8f55110-423f-46e4-b213-d205c18b3531",
@@ -106,36 +96,6 @@
   "url": "https://jobs.ashbyhq.com/teya/6840cc2b-e727-465c-973d-34ab289fa6fc",
   "source": "ATS/ashby",
   "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Business Development Consultant (Payments)",
-  "company": "Teya",
-  "location": "Reading",
-  "url": "https://jobs.ashbyhq.com/teya/1bc7252a-8bca-4f31-bf3e-f968d07b981c",
-  "source": "ATS/ashby",
-  "slug": "teya",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - German Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/E12850D7C9",
-  "source": "ATS/workable",
-  "slug": "nuvei",
-  "sector": "fintech",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative - Hebrew Speaking",
-  "company": "Nuvei",
-  "location": "London, United Kingdom",
-  "url": "https://apply.workable.com/j/6DC17BDF1B",
-  "source": "ATS/workable",
-  "slug": "nuvei",
   "sector": "fintech",
   "salary": ""
  },
@@ -226,16 +186,6 @@
   "url": "https://jobs.ashbyhq.com/snowflake/b9bd62f1-ad91-423a-a680-cf9366960976",
   "source": "ATS/ashby",
   "slug": "snowflake",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
-  "title": "Sales Development Representative with French - Field Sales - UK",
-  "company": "Redis",
-  "location": "United Kingdom",
-  "url": "https://jobs.ashbyhq.com/redis/d94ff9f8-6c14-4af0-88be-3ff8524da3fe",
-  "source": "ATS/ashby",
-  "slug": "redis",
   "sector": "cloudinfra",
   "salary": ""
  },
@@ -342,8 +292,8 @@
  {
   "title": "Business Development Representative",
   "company": "GitLab",
-  "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+  "location": "Remote, North America",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
   "source": "ATS/greenhouse",
   "slug": "gitlab",
   "sector": "cloudinfra",
@@ -646,6 +596,16 @@
   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8128070",
   "source": "ATS/greenhouse",
   "slug": "mixpanel",
+  "sector": "salestech_b2b",
+  "salary": ""
+ },
+ {
+  "title": "Sales Development Representative, UKI",
+  "company": "Contentsquare",
+  "location": "London",
+  "url": "https://jobs.lever.co/contentsquare/0ab78722-f903-4c87-b5e2-19c21630295c",
+  "source": "ATS/lever",
+  "slug": "contentsquare",
   "sector": "salestech_b2b",
   "salary": ""
  },
