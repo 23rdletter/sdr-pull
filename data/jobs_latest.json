@@ -200,16 +200,6 @@
   "salary": ""
  },
  {
-  "title": "Business Development Representative , Startups",
-  "company": "Vercel",
-  "location": "Hybrid - London",
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
-  "source": "ATS/greenhouse",
-  "slug": "vercel",
-  "sector": "cloudinfra",
-  "salary": ""
- },
- {
   "title": "Sales Development Representative, UK&I",
   "company": "Vercel",
   "location": "Hybrid - London",
@@ -533,7 +523,7 @@
   "title": "Sales Development Representative",
   "company": "Cognism",
   "location": "London",
-  "url": "https://www.cognism.com/jobs?gh_jid=4879404101",
+  "url": "https://www.cognism.com/jobs?gh_jid=4900861101",
   "source": "ATS/greenhouse",
   "slug": "cognism",
   "sector": "salestech_b2b",
